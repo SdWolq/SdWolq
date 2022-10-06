@@ -21,7 +21,7 @@
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />][twitter]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [https://github.com/SdWolq](https://www.linkedin.com/in/oğuzhan-sapçili-2a7596223/)
+[linkedin]: https://www.linkedin.com/in/oğuzhan-sapçili-2a7596223/
 [instagram]: https://www.instagram.com/sapcili/
 [twitter]: https://twitter.com/sdwolq
 
